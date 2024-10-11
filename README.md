@@ -2,8 +2,10 @@
 
 This macro helps batch converting to mesh and exporting STL and OBJ files. It adds a GUI for speeding up the conversion and file saving of selected objects.
 
-image1
-image2
+![Batch export to mesh](/../media/img/screenshot1.png?raw=true "Batch export to mesh")
+
+
+![Batch export to mesh](/../media/img/screenshot2.png?raw=true "Batch export to mesh")
 
 
 # Features
@@ -23,6 +25,8 @@ image2
 
 # Licence
 
-Copyright 2024 Pablo Gil Fernández
+Copyright 2024 Pablo Gil Fernández.
+
 This work is licensed under GNU Lesser General Public License (LGPL). To view a copy of this license, visit:
+
 https://www.gnu.org/licenses/lgpl-3.0.html
